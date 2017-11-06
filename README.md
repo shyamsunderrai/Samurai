@@ -6,3 +6,5 @@ Python tutorial
                   Range for the number is between 0-9. My example "magicnumber.py"
                   
 2. Age in Seconds/Days - Program to convert days in seconds OR days. NOTE: The input for days "d" or seconds "s" should be supplied within double quotes.                   
+
+3. Basic Twitter Search - Using the Twitter libraries from Python to Enter a custom String and Search Twitter Query. Although, cannot keep your Twitter key open to public.
