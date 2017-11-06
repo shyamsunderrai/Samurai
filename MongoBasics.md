@@ -12,5 +12,6 @@
    > db.tweet.insert({"timestamp":"Mon Nov 06 05:19:23 +0000 2017","User":"ArkangelScrap","Tweet":"RT @developerWorks: Enhance Hortonworks Data Platform (HDP) with a variety of ISV solution capabilities. https://t.co/wuEVn1PXty"})
 7. To List the contents of the table 
    > db.tweet.find({})
-   
+8. Using pymongo library to read data from MongoDB (Contents in the file Pymongo.py)
+
  
